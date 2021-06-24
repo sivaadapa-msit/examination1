@@ -1,0 +1,14 @@
+article {
+    float: left;
+    padding: 5px;
+    width: 80%;
+    height:840px;
+   background-color: #f1f1f1;
+  }
+  /* Clear floats after the columns 
+  section::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+*/

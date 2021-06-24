@@ -1,0 +1,12 @@
+
+
+      .boldtable, .boldtable TD, .boldtable TH
+      {
+      font-family:sans-serif;
+      font-size:11pt;
+      color:black;
+      
+      margin-top: 10px;
+      margin-left: -20%;
+      margin-right: 40%;
+      }
